@@ -8,5 +8,5 @@ to identify common patterns of accesses made by different network algorithms, an
 `wrapper` over a Twitter graph database that can support a subset of these operations.
 
 ### Project members:
-@azmainadel
-@Maksudul087
+* [Azmain Adel](https://github.com/azmainadel/)
+* [Maksudul Alam](https://github.com/Maksudul087/)
